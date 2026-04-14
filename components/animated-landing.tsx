@@ -162,7 +162,7 @@ export default function AnimatedLanding() {
 
       <div className="flex h-[10rem] align-middle absolute top-10 left-40 h-26 w-26">
           <a
-            href="/dashboard"
+            href="//tl33444444444/dashboard"
             className="group inline-flex items-center gap-3 border border-foreground/0 px-0 py-0 font-mono text-xs uppercase tracking-widest text-foreground hover:border-accent hover:text-accent transition-all duration-200"
           >
             <ScrambleTextOnHover text="View Experiments" as="span" duration={0.6} />
